@@ -1,0 +1,5 @@
+package Intr;
+
+public enum Title {
+	TECHSUPPORTGUY, SENIOR_LECTOR,JUNIOR_LECTOR, TEACHER, ADMIN, STUDENT, 
+}
